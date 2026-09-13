@@ -9,7 +9,11 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "popion-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = ""d1_databases": [{
+    "binding": "DB",
+    "database_name": "popion-db",
+    "database_id": "ce619974-e9c3-401b-98f2-a01ed046845a"
+ }]"
 
 [vars]
 ADMIN_USER = "admin"
