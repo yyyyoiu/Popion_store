@@ -14,3 +14,4 @@ database_id = "ce619974-e9c3-401b-98f2-a01ed046845a"
 [vars]
 ADMIN_USER = "admin"
 ADMIN_PASSWORD = "CHANGE_THIS_PASSWORD"
+
