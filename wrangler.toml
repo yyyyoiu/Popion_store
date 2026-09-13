@@ -1,0 +1,16 @@
+name = "popion-store"
+main = "src/index.js"
+compatibility_date = "2026-09-13"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "popion-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+
+[vars]
+ADMIN_USER = "admin"
+ADMIN_PASSWORD = "CHANGE_THIS_PASSWORD"

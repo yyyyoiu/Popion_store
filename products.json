@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "کاپشن نایک مشکی و آبی",
+    "price": 1980000,
+    "image": "/images/product-2.jpeg",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "کاپشن نایک مشکی و صورتی",
+    "price": 1980000,
+    "image": "/images/product-3.jpeg",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "کاپشن نایک آبی و سفید",
+    "price": 1980000,
+    "image": "/images/product-1.jpeg",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "name": "کاپشن نایک کرم و آبی",
+    "price": 1980000,
+    "image": "/images/product-5.jpeg",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "کاپشن نایک پاستلی",
+    "price": 1980000,
+    "image": "/images/product-4.jpeg",
+    "stock": 10
+  }
+]
